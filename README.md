@@ -7,8 +7,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Demanghon](https://github.com/Demanghon)
 
-- 📝 I regularly write articles on [https://blog.demanghon.com/](https://blog.demanghon.com/)
-
 - 💬 Ask me about **to work on modern Java projects**
 
 - 📫 How to reach me **demanghonj@gmail.com**
