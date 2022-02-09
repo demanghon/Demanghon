@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Demanghon Jérôme</h1>
 <h3 align="center">A passionate Solution Architect from France</h3>
 
-- 🔭 I’m currently working on [personal project](https://github.com/Demanghon/file-broadcaster)
+- 🔭 I’m currently working on personal project
 
-- 🌱 I’m currently learning **Micro services paradigm with modern tools as Kubernetes, Angular, Java and more...**
+- 🌱 I’m currently learning **Micro services paradigm with modern tools as Kubernetes, React, NodeJS and more...**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Demanghon](https://github.com/Demanghon)
 
-- 💬 Ask me about **to work on modern Java projects**
+- 💬 Ask me about **to work on modern projects**
 
 - 📫 How to reach me **demanghonj@gmail.com**
 
